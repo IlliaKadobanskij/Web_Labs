@@ -1,164 +1,167 @@
-body{
-    background: #F8F9FA;
-}
-header{
-    background: #F8F9FA;
-}
-main{
-    padding-bottom: 100px;
+body {
+  background: #F8F9FA;
 }
 
-footer{
-    margin-top: 25px;
-    background: #1e1e1e;
+header {
+  background: #F8F9FA;
 }
 
-.logout:hover{
-    color: lightgray;
+main {
+  padding-bottom: 100px;
 }
 
-.myheader{
-    color: white;
-    background: #1e1e1e;
-    height: 100px;
+footer {
+  margin-top: 25px;
+  background: #1e1e1e;
 }
 
-.mynavbar{
-    color: white;
-    text-align: center;
-    margin: 0 13%;
-    border-style: solid;
-    border-color: lightgray;
-    background: lightgray;
-    border-radius: 0 0 25px 25px;
+.logout:hover {
+  color: lightgray;
 }
 
-.mya{
-    color: white;
+.myheader {
+  color: white;
+  background: #1e1e1e;
+  height: 100px;
 }
 
-.mya:hover{
-    color: lightgray;
+.mynavbar {
+  color: white;
+  text-align: center;
+  margin: 0 13%;
+  border-style: solid;
+  border-color: lightgray;
+  background: lightgray;
+  border-radius: 0 0 25px 25px;
 }
 
-.mya_nav{
-    color: black;
+.mya {
+  color: white;
 }
 
-.mya_nav:hover{
-    color: gray;
+.mya:hover {
+  color: lightgray;
 }
 
-.cabinet{
-    text-align: right;
-    width: 50px;
-    height: 50px;
-    padding: 0;
-    margin: 0;
-    border-style: solid;
-    border-color: lightgray;
-    background: lightgray;
-    border-radius: 100px;
+.mya_nav {
+  color: black;
 }
 
-.cabinet_button{
-    padding: 0;
-    margin: 0;
-    text-align: right;
-    width: 50px;
-    height: 50px;
+.mya_nav:hover {
+  color: gray;
 }
 
-.cabinet_button:focus{
-    outline: none;
+.cabinet {
+  text-align: right;
+  width: 50px;
+  height: 50px;
+  padding: 0;
+  margin: 0;
+  border-style: solid;
+  border-color: lightgray;
+  background: lightgray;
+  border-radius: 100px;
 }
 
-.myplate:hover{
-    background: lightgray;
+.cabinet_button {
+  padding: 0;
+  margin: 0;
+  text-align: right;
+  width: 50px;
+  height: 50px;
 }
 
-.logout{
-    color: white;
-    text-align: right;
+.cabinet_button:focus {
+  outline: none;
 }
 
-.vide_name{
-    margin-top: 15px;
-    font-size: 20px;
+.myplate:hover {
+  background: lightgray;
+}
+
+.logout {
+  color: white;
+  text-align: right;
+}
+
+.vide_name {
+  margin-top: 15px;
+  font-size: 20px;
 }
 
 /* -------  */
-
 body {
-    background-color: #f7f6f6
+  background-color: #f7f6f6;
 }
 
 .card {
-    border: none;
-    box-shadow: 5px 6px 6px 2px #e9ecef;
-    border-radius: 4px
+  border: none;
+  box-shadow: 5px 6px 6px 2px #e9ecef;
+  border-radius: 4px;
 }
 
 .dots {
-    height: 4px;
-    width: 4px;
-    margin-bottom: 2px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block
+  height: 4px;
+  width: 4px;
+  margin-bottom: 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
 }
 
 .badge {
-    padding: 7px;
-    padding-right: 9px;
-    padding-left: 16px;
-    box-shadow: 5px 6px 6px 2px #e9ecef
+  padding: 7px;
+  padding-right: 9px;
+  padding-left: 16px;
+  box-shadow: 5px 6px 6px 2px #e9ecef;
 }
 
 .user-img {
-    margin-top: 4px
+  margin-top: 4px;
 }
 
 .check-icon {
-    font-size: 17px;
-    color: #c3bfbf;
-    top: 1px;
-    position: relative;
-    margin-left: 3px
+  font-size: 17px;
+  color: #c3bfbf;
+  top: 1px;
+  position: relative;
+  margin-left: 3px;
 }
 
 .form-check-input {
-    margin-top: 6px;
-    margin-left: -24px !important;
-    cursor: pointer
+  margin-top: 6px;
+  margin-left: -24px !important;
+  cursor: pointer;
 }
 
 .form-check-input:focus {
-    box-shadow: none
+  box-shadow: none;
 }
 
 .icons i {
-    margin-left: 8px
+  margin-left: 8px;
 }
 
 .reply {
-    margin-left: 12px
+  margin-left: 12px;
 }
 
 .reply small {
-    color: #b7b4b4
+  color: #b7b4b4;
 }
 
 .reply small:hover {
-    color: green;
-    cursor: pointer
+  color: green;
+  cursor: pointer;
 }
 
-footer{
-    margin-top: 50px;
-    background: #1e1e1e;
+footer {
+  margin-top: 50px;
+  background: #1e1e1e;
 }
 
-.comment_form{
-    margin-top: 20px;
+.comment_form {
+  margin-top: 20px;
 }
+
+/*# sourceMappingURL=video.css.map */

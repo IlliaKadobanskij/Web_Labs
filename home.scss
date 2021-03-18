@@ -1,0 +1,94 @@
+body{
+    background: #F8F9FA;
+}
+header{
+    background: #F8F9FA;
+}
+main{
+    padding-bottom: 100px;
+}
+
+footer{
+    margin-top: 25px;
+    background: #1e1e1e;
+}
+
+.logout:hover{
+    color: lightgray;
+}
+
+.myheader{
+    color: white;
+    background: #1e1e1e;
+    height: 100px;
+}
+
+.mynavbar{
+    color: white;
+    text-align: center;
+    margin: 0 13%;
+    border-style: solid;
+    border-color: lightgray;
+    background: lightgray;
+    border-radius: 0 0 25px 25px;
+}
+
+.mya{
+    color: white;
+}
+
+.mya:hover{
+    color: lightgray;
+}
+
+.mya_nav{
+    color: black;
+}
+
+.mya_nav:hover{
+    color: gray;
+}
+
+.cabinet{
+    text-align: right;
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    border-style: solid;
+    border-color: lightgray;
+    background: lightgray;
+    border-radius: 100px;
+}
+
+.cabinet_button{
+    padding: 0;
+    margin: 0;
+    text-align: right;
+    width: 50px;
+    height: 50px;
+}
+
+.cabinet_button:focus{
+    outline: none;
+}
+
+.myplate:hover{
+    background: lightgray;
+}
+
+.logout{
+    color: white;
+    text-align: right;
+}
+
+.video_card{
+    text-decoration: none;
+    color: black;
+}
+
+.video_card:hover{
+    text-decoration: none;
+    border: none;
+    color: black;
+}
